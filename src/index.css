@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+    themes : 
+    dracula 
+};
+
+html{
+    scroll-behavior: smooth;
+}
